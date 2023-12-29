@@ -23,9 +23,9 @@ score, highlighting their importance in evaluating student progress and understa
 If you have any questions or concerns regarding the course or this repository, please feel free to reach out to us:
 
 * Organization:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;iust.control.iot+4021@gmail.com
-* Reza Vahidnia:&ensp;&ensp;&ensp;&ensp;&ensp;rvahidnia@bcti.ca
+* Reza Vahidnia:&ensp;&ensp;&ensp;&ensp; rvahidnia@bcti.ca
 * Maedeh Ghaderi:&ensp;&ensp;&nbsp;maedeh.ghadery@gmail.com
-* Erfan Riazati:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;erf.riazati@gmail.com
+* Erfan Riazati:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;erf.riazati@gmail.com
 
 ## License
 The repositories in this organization are typically released under the MIT License. However, please refer to the individual repositories for their specific licensing information, as certain projects may employ different licenses.
